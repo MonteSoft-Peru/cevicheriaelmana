@@ -918,6 +918,7 @@ a:focus {
 .menu .menu-img img {
     width: 100%;
     border-radius: 100px;
+    height: 80px;
 }
 
 .menu .menu-text {
