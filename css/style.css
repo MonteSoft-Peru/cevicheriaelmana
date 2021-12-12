@@ -120,6 +120,7 @@ a:focus {
 
 .navbar .navbar-brand span {
     color: #719a0a;
+    text-transform: uppercase;
 }
 
 .navbar .navbar-brand:hover {
@@ -963,6 +964,7 @@ a:focus {
     margin: 5px 0 0 0;
     float: left;
     display: block;
+    clear: left;
 }
 
 @media(max-width: 575.98px) {
